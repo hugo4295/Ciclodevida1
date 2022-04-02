@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ciclodevida1</string>
+    <string name="titulo">Ciclo de vida</string>
+    <string name="btninc">Incremento</string>
+</resources>
